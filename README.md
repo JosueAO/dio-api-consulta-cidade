@@ -1,1 +1,3 @@
-## Em andamento...
+API Rest de consulta de cidades do Brasil. Um dos grande destaque que faço é para a forma simples de paginação através do Spring e a simplicidade na explicação do especialista sobre esse assunto. Outro grande destaque, é pela propriedade do PostgreSQL sobre GEOLOCALIZAÇÃO, possibilitando de forma ágil(no BD) um serviço para o cálculo de distância entre cidades. As extensões usadas foram: cube e earthdistance.
+
+OBS: Nesse projeto foi usado o Heroku, mas as configurações no application.properties está em localhost. Hoje o Heroku permite fazer toda a implentação pelo seu portal. Caso use algo desse projeto, criei seu banco no portal e tenha um seu caminho ao BD.
